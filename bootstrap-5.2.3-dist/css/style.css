@@ -1,0 +1,11 @@
+.portofolio{
+    overflow: hidden;
+    padding: 0;
+}
+.portofolio:hover{
+    cursor: pointer;
+    z-index: 999;
+}
+.portofolio img{
+    width: 100%;
+}
